@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MySharedPreferences</string>
+    <string name="name">name</string>
+    <string name="dummy_name">dummy name</string>
+    <string name="email">email</string>
+    <string name="dummy_email">dummy email</string>
+    <string name="phone_number">phone number</string>
+    <string name="dummynumber">dummy number</string>
+    <string name="age">age</string>
+    <string name="dummyage">dummy age</string>
+    <string name="love_manchester_united">love manchester united</string>
+    <string name="dummyislove">dummy is love</string>
+    <string name="save">save</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="change">Ubah</string>
+</resources>
